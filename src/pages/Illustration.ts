@@ -25,6 +25,15 @@ export const IllustrationPage = async () => `
         </div>
       </div>
 
+      <!-- Surreal Portrait -->
+      <div class="break-inside-avoid relative group overflow-hidden rounded-xl bg-white shadow-sm hover:shadow-xl transition-all duration-300 border border-stone-100">
+        <img src="./images/illustration_1.png" alt="Surreal Portrait" class="w-full object-cover transition-transform duration-700 group-hover:scale-105" loading="lazy">
+        <div class="absolute inset-0 bg-gradient-to-t from-stone-900/90 via-stone-900/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 translate-y-4 group-hover:translate-y-0 text-white">
+          <h3 class="text-xl font-bold">Surreal Portrait</h3>
+          <p class="text-sm text-rose-300 mt-1 uppercase tracking-wider font-semibold">Procreate</p>
+        </div>
+      </div>
+
       <!-- Editorial Article -->
       <div class="break-inside-avoid relative group overflow-hidden rounded-xl bg-white shadow-sm hover:shadow-xl transition-all duration-300 border border-stone-100">
         <img src="./images/illustration_2.png" alt="Editorial Article" class="w-full object-cover transition-transform duration-700 group-hover:scale-105" loading="lazy">
@@ -121,6 +130,15 @@ export const IllustrationPage = async () => `
         <div class="absolute inset-0 bg-gradient-to-t from-stone-900/90 via-stone-900/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 translate-y-4 group-hover:translate-y-0 text-white">
           <h3 class="text-xl font-bold">Kitchen Isometric Room</h3>
           <p class="text-sm text-rose-300 mt-1 uppercase tracking-wider font-semibold">Procreate</p>
+        </div>
+      </div>
+
+      <!-- Figurative Studies -->
+      <div class="break-inside-avoid relative group overflow-hidden rounded-xl bg-white shadow-sm hover:shadow-xl transition-all duration-300 border border-stone-100">
+        <img src="./images/art_illustrations_5.png" alt="Figurative Studies" class="w-full object-cover transition-transform duration-700 group-hover:scale-105" loading="lazy">
+        <div class="absolute inset-0 bg-gradient-to-t from-stone-900/90 via-stone-900/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 translate-y-4 group-hover:translate-y-0 text-white">
+          <h3 class="text-xl font-bold">Figurative Studies</h3>
+          <p class="text-sm text-rose-300 mt-1 uppercase tracking-wider font-semibold">Procreate, Photoshop</p>
         </div>
       </div>
 
